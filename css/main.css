@@ -116,11 +116,12 @@ header{
   text-align: center;
   color: #fff;
   padding: 70px 7px;
+  padding-bottom: 500px;
 }
 
 .box-services{
   display: inline-block;
-  width: 30%;
+  width: 27%;
   margin-top: 63px;
 }
 
@@ -147,11 +148,9 @@ header{
   margin-top: 30px;
 }
 
-#work .work-img {
-  margin-left: 140px;
-}
 
 #work .box-work img{
+  padding: 20px;
   width: 100%;
 }
 
